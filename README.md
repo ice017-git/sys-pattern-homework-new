@@ -34,4 +34,4 @@
 
 Создайте свой кастомный дашборд.
 Мой дашборд:
-![Создание_item](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/дашборд.png)
+![Создание_item](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/dashboard.png)
