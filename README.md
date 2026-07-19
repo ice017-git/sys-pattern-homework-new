@@ -11,7 +11,7 @@
 В веб-интерфейсе Zabbix Servera в разделе Templates создал новый шаблон
 ![Создание_шаблона](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/1_создание_шаблона.png)
 Создал Item который будет собирать информацию об загрузке CPU в процентах
-![Создание_item(https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/1_создание_item1.png)
+![Создание_item](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/1_создание_item1.png)
 Создал Item который будет собирать информацию об загрузке RAM в процентах
 ![Создание_item](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/1_создание_item2.png)
 Готовый шаблон:
