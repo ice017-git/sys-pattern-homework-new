@@ -43,6 +43,7 @@
 при получении 2 будет возвращать текущую дату.
 
 **Скриншот Latest Data с Bash-скриптами:**
+
 ![код скрипта bash](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/6_bash.png)
 ![latest data bash](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/6_latest_data.png)
 
