@@ -35,3 +35,26 @@
 Создайте свой кастомный дашборд.
 Мой дашборд:
 ![Создание_item](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/dashboard.png)
+
+### Задание 6
+
+Создайте UserParameter на bash и прикрепите его к созданному вами ранее шаблону. Он должен вызывать скрипт, который:
+при получении 1 будет возвращать ваши ФИО,
+при получении 2 будет возвращать текущую дату.
+
+**Скриншот Latest Data с Bash-скриптами:**
+![код скрипта bash](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/6_bash.png)
+![latest data bash](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/6_latest_data.png)
+
+### Задание 7
+
+Доработайте Python-скрипт из лекции, создайте для него UserParameter и прикрепите его к созданному вами ранее шаблону. Скрипт должен:
+
+при получении 1 возвращать ваши ФИО,
+при получении 2 возвращать текущую дату,
+делать всё, что делал скрипт из лекции.
+
+**Скриншот Latest Data с Python-скриптами:**
+
+![код скрипта bash](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/7_python.png)
+![latest data bash](https://github.com/ice017-git/sys-pattern-homework-new/blob/main/img/7_latest_data.png)
